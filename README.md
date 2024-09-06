@@ -55,5 +55,3 @@ If you have any questions or feedback about my projects, please feel free to con
 ---
 
 *This repository is constantly updated. Stay tuned for new projects and updates!
-
-Translated with DeepL.com (free version)
